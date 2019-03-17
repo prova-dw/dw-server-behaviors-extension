@@ -1,10 +1,10 @@
 ## Updated Version of ServerBehaviors for Dreamweaver CC+
 
-With Dreamweaver CC and onwards, Server Behaviors, Database, Bindings, and Components are not available by default, as they were with CS6 and earlier versions of Dreamweaver. This extension restores those features and in this version is updated to support mysqli object connection and query and php7.0+ for php/mysql Server.
+With Dreamweaver CC and onwards, Server Behaviors, Database, Bindings, and Components are not available by default, as they were with CS6 and earlier versions of Dreamweaver. This extension restores those features and in this version is updated to support MYSQLI and PHP7.0+ for php/mysql Server.
 
 These features are very useful when working with Dynamic websites and interacting with database systems.
 
-### Markdown
+### Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
