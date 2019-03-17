@@ -16,7 +16,7 @@ With this extension it is possible to connect to the following databases:
 For other details on ASP and COLDFUSION check the adobe documentation.
 ```
 
-### Jekyll Themes
+### MYSQL/PHP Overview
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prova-dw/dw-server-behaviors-extension/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
