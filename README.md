@@ -1,8 +1,8 @@
 ## Updated Version of ServerBehaviors for Dreamweaver CC+
 
-You can use the [editor on GitHub](https://github.com/prova-dw/dw-server-behaviors-extension/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With Dreamweaver CC and onwards, Server Behaviors, Database, Bindings, and Components are not available by default, as they were with CS6 and earlier versions of Dreamweaver. This extension restores those features and in this version is updated to support mysqli object connection and query and php7.0+ for php/mysql Server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These features are very useful when working with Dynamic websites and interacting with database systems.
 
 ### Markdown
 
