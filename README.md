@@ -6,27 +6,14 @@ These features are very useful when working with Dynamic websites and interactin
 
 ### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With this extension it is possible to connect to the following databases:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ - MYSQL in PHP
+ - SQLServer in ASP
+ - Access DB in COLDFUSION
+For other details on ASP and COLDFUSION check the adobe documentation.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
