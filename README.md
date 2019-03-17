@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Updated Version of ServerBehaviors for Dreamweaver CC+
 
 You can use the [editor on GitHub](https://github.com/prova-dw/dw-server-behaviors-extension/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
